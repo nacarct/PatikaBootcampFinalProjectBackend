@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU6VYNXq1+Gu17vDOJ5MohwTcKNmqG+RomW1sfGbjS5F7Hj1XU6bWBBHN6AXG2HbO6UPCqrqknKyvd1Er3LFNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TN\\source\\repos\\MyInsurance\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TN\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\TN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

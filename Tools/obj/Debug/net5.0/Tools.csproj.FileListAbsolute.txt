@@ -1,0 +1,15 @@
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\Tools.deps.json
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\Tools.dll
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\ref\Tools.dll
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\Tools.pdb
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\Entities.dll
+C:\Users\TN\source\repos\MyInsurance\Tools\bin\Debug\net5.0\Entities.pdb
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.AssemblyInfo.cs
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.csproj.CopyComplete
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.dll
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\ref\Tools.dll
+C:\Users\TN\source\repos\MyInsurance\Tools\obj\Debug\net5.0\Tools.pdb
